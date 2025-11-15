@@ -1,5 +1,5 @@
 function Home(){
-    return <h1>Dudinha me ama ainda? </h1>
+    return <h1>Dudinha se voce me ama, da uma risadinha :) </h1>
 }
 
 
