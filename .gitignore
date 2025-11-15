@@ -1,6 +1,4 @@
 .next
-.node_modules
 .nvmrc
-
-
 node_modules/
+
