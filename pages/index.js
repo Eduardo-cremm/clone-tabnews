@@ -1,6 +1,5 @@
-function Home(){
-    return <h1>Dudinha se voce me ama, da uma risadinha :) </h1>
+function Home() {
+  return <h1>Dudinha se voce me ama, da uma risadinha :) </h1>;
 }
-
 
 export default Home;
