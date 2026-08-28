@@ -1,4 +1,5 @@
 .next
 .nvmrc
 node_modules/
+.env.development
 
